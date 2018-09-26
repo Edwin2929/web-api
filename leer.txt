@@ -1,0 +1,9 @@
+Este es una practica con web api en el cual muestra un enlace a la base de datos mostrando los registros
+
+para compilae
+- ejecute el script de la base de datos 
+-en el proyecto web api cambie el servidor y luego compile
+-si aparece un error es que la vista a sido eliminada tiene que dejarlo compilando para que funcione(el error no importa)
+-luego vaya a la carpeta donde estan los archivos y da click en la carpeta clienteApiweb y selecciona cualquiera de los do archivos html
+-uno es de angular y el otro de jquery
+-al abrir el archivo con el navegador le mostrara la vista de esta 
